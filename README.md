@@ -15,11 +15,11 @@ state-of-the-art(SOTA) results
 
 ## 1. data and Model weights
 ### Synapse
-- Get Synapse data, model weights of our GCGLE-Net come soon.
+- Get [Synapse data](https://drive.google.com/drive/folders/1ACJEoTp-uqfFJ73qS3eUObQh52nGuzCd), model weights of our GCGLE-Net come soon.
 ### ISIC-2018
-- Get ISIC-2018 data, model weights of our GCGLE-Net come soon.
+- Get [ISIC-2018 data](https://challenge.isic-archive.com/data/), model weights of our GCGLE-Net come soon.
 ### ACDC
-- Get ACDC data, model weights of our GCGLE-Net come soon.
+- Get [ACDC data](https://drive.google.com/file/d/13qYHNIWTIBzwyFgScORL2RFd002vrPF2/view), model weights of our GCGLE-Net come soon.
 ## 2. Environment
 - Please prepare an environment with python=3.10, and then use the command "pip install -r requirements.txt" for the dependencies.
 
