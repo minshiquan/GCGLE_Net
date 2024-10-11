@@ -11,6 +11,9 @@ information from the global context and integrate feature information. To better
 information across varying scales, we introduce a Channel-Spatial Aggregation Module (CSAM).
 We conduct experiments on three mainstream medical image segmentation datasets and achieved
 state-of-the-art(SOTA) results 
+![img_5.png](img_5.png)
+
+<center>The overall architecture diagram of GCGLE-Net, figure(a) represents GCGLE block, which can effectively extract  local information from the global information extracted in BRA.</center>
 
 
 ## 1. data and Model weights
