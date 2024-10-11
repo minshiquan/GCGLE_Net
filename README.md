@@ -13,8 +13,8 @@ We conduct experiments on three mainstream medical image segmentation datasets a
 state-of-the-art(SOTA) results 
 ![img_5.png](img_5.png)
 
-<center>The overall architecture diagram of GCGLE-Net, figure(a) represents GCGLE block, which can effectively extract  local information from the global information extracted in BRA.</center>
-
+<center>The overall architecture diagram of GCGLE-Net, figure(a) represents GCGLE block, which can effectively extract  </center>
+local information from the global information extracted in BRA.
 
 ## 1. data and Model weights
 ### Synapse
